@@ -34,10 +34,6 @@ I'm Wallace, a recent BSc Computer Science graduate 🎓 from <a href="https://u
 <img align="center" width="450" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacemyem&layout=compact&hide=HTML&langs_count=10&bg_color=0,EE82EE,FFFFFF&theme=graywhite"/>
 </p>
 </details>
-
-<details>
-
-</details>
  
 <details>
 <summary> <b>📫 Contact me </b></summary>
