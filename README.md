@@ -11,7 +11,7 @@
 
 <h3> <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> Hi there </h3> 
 
-I'm Wallace, a recent BSc Computer Science graduate 🎓 from <a href="https://umm.edu.ng/">University of Mkar</a>. Primarily interested in Cybersecurity and Data science.
+I'm Wallace, a BSc Computer Science graduate 🎓 from <a href="https://umm.edu.ng/">University of Mkar</a>. Primarily interested in Cybersecurity and Blockchain.
 
 <h3> 👨‍💻 Languages I use</h3>
 
